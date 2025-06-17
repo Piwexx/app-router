@@ -1,6 +1,5 @@
 import DashboardSkeleton from "../../ui/skeletons";
 
-export default function Loading() {
-  //Aqui podemos crear skeleton 
+export default function Loading() { 
   return <DashboardSkeleton/>;
 }
